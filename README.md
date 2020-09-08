@@ -12,7 +12,7 @@ Open a terminal and type
 
 In the `sources.list` file, add the following lines:
 
-`
+```
 deb http://httpredir.debian.org/debian jessie main
 deb-src http://httpredir.debian.org/debian jessie main
 
@@ -21,7 +21,7 @@ deb-src http://httpredir.debian.org/debian jessie-updates main
 
 deb http://security.debian.org/ jessie/updates main
 deb-src http://security.debian.org/ jessie/updates main
-`
+```
 
 Then, press SAVE and close the file.
 
